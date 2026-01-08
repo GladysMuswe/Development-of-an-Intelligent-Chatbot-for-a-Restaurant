@@ -27,11 +27,11 @@ The system demonstrates how Natural Language Processing (NLP) and lightweight ba
 ---
 
 ## 🛠️ Technologies Used
-- Programming Language:** Python 3
-- Database:** SQLite
-- Libraries:** Pandas, Scikit-learn, NLTK
-- Architecture:** Rule-based NLP + backend logic
-- Environment:** Local execution (offline)
+- Programming Language:Python 3
+- Database: SQLite
+- Libraries: Pandas, Scikit-learn, NLTK
+- Architecture: Rule-based NLP + backend logic
+- Environment: Local execution (offline)
 
 ---
 
